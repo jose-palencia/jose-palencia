@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋
+
+Soy un programador entusiasta por la tecnología, me encuentro en Honduras, la idea de este espacio es ir compartiendo algunos de mis proyectos y pequeñas prácticas que voy realizando para aprender diferentes lenguajes y sus implementaciones.
 
 <!--
 **jose-palencia/jose-palencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
