@@ -3,14 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm José Palencia, a full-stack developer 👨‍💻 working since 2006 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Cooperativa Nueva Vida](https://coopnuevavida.com)  
-  
-
-- 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot)
-  
+### <div align="center">I'm José Palencia, a full-stack developer 👨‍💻 working since 2006 🚀</div>      
 
 <br/>  
 
